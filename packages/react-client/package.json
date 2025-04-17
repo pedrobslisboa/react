@@ -1,8 +1,7 @@
 {
-  "name": "react-client",
+  "name": "@pedrobslisboa/react-client",
   "description": "React package for consuming streaming models.",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.0.0-beta.2",
   "keywords": [
     "react"
   ],
@@ -16,14 +15,14 @@
     "cjs/"
   ],
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/facebook/react.git",
+    "type": "git",
+    "url": "https://github.com/facebook/react.git",
     "directory": "packages/react-client"
   },
   "engines": {
     "node": ">=0.10.0"
   },
   "peerDependencies": {
-    "react": "^17.0.0"
+    "react": "^19.0.0"
   }
 }

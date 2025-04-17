@@ -8,3 +8,4 @@
  */
 
 export * from './src/ReactFlightClient';
+export * from './src/ReactFlightReplyClient';
